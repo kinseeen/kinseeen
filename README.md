@@ -1,11 +1,32 @@
-### Hi there 👋
+# 👋 Hi, I'm Kine
 
-My name is Kine Jakobsen. This is my personal repository. 
+I'm a **frontend developer** based in the **Oslo/Ski area**, passionate about building modern, accessible, and visually appealing web applications.  
+About to be a newly graduated frontend developer from Noroff vocational school. 
 
+---
 
-- 🌱 I’m currently learning frontend development through Noroff. 
-- 🤔 I’m looking for help with javascript and design ideas for new websites. 
-- 💬 Ask me about html and css. 
-- 📫 How to reach me: kine.jakobsen@hotmail.no
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i still have my baby teeth
+## 💻 Tech Stack
+- ⚛️ **React**
+- 💙 **TypeScript**
+- 🎨 **Tailwind CSS**
+- 🧠 Also familiar with: JavaScript (ES6+), HTML5, CSS3, Git, and basic backend concepts (Node.js & APIs)
+
+---
+
+## 🚀 What I'm Working On
+My portifolio: 
+---
+
+## 🌍 About Me
+- 📍 Based in **Oslo/Ski, Norway**
+- 🔍 Actively looking for **frontend developer positions**
+- 🎯 Motivated by clean code, intuitive UI/UX, and continuous learning
+- 💬 I enjoy collaborating, problem-solving, and learning from other developers
+---
+
+## 📫 Get in Touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/kine-jakobsen-89b618163/)
+- 📧 [Email](mailto:kine.jakobsen@hotmail.no)
+- 🐙 [GitHub](https://github.com/kinseeen)
+
+---

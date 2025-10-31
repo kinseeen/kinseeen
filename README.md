@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kine
 
 I'm a **frontend developer** based in the **Oslo/Ski area**, passionate about building modern, accessible, and visually appealing web applications.  
-About to be a newly graduated frontend developer from Noroff vocational school. 
+I am a Newly graduated frontend developer from Noroff vocational school. 
 
 ---
 
